@@ -1,0 +1,12 @@
+На основе данных по фильмам:
+
+    1) Нарисовать pie-chart с прибылью по фильмам за все время
+    2) Получить top 5 самых продаваемых фильмов в каждом магазине
+
+Выполнить еще 2 задания на SQL
+[ https://pgexercises.com/questions/basic/where.html ]
+[ https://pgexercises.com/questions/basic/where2.html ]
+
+В качестве решения в ЛК:
+Ссылку на расшаренный google spreadsheet
+Скриншоты выполненных pgexercises
