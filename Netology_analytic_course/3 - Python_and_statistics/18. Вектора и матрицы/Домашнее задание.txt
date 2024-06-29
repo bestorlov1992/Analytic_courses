@@ -1,0 +1,4 @@
+Домашнее задание «Вектора и матрицы»
+Преподаватель: Вячеслав Потапов
+** Домашнее задание**
+Задание находится по ссылке https://github.com/rtriangle/Netology-statistics/blob/master/homework-1.ipynb

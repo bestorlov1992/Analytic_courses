@@ -1,0 +1,3 @@
+Домашнее задание к лекции «Кейс-стади часть 1»
+Преподаватель: Вячеслав Потапов, Даниил Корбут
+Задание к домашней работе можно найти здесь https://github.com/rtriangle/Netology-statistics/blob/master/homework-6.ipynb
