@@ -1,4 +1,4 @@
-# Data_science
+# Analytic_courses
 
 [Top 20 Git Commands](https://dzone.com/articles/top-20-git-commands-with-examples)
 
